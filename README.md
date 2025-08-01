@@ -80,5 +80,3 @@ You can deploy this app easily using **[Streamlit Community Cloud](https://share
 4. Deploy!
 
 ---
-
-Would you like me to also give you a **`requirements.txt`** file for this app (ready for deployment)? (so it works perfectly on Streamlit Cloud)
